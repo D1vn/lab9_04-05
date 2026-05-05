@@ -1,1 +1,5 @@
-int __main___ 121
+int main()
+{
+	int a;
+	double b;
+}
